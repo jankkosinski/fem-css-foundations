@@ -1,9 +1,4 @@
-[![Frontend Masters](https://static.frontendmasters.com/assets/brand/logos/full.png)][fem]
 
-# Frontend Masters CSS Foundations
-Welcome to Frontend Masters CSS Foundations! You can find the course information [here][course].
-
-# How To Follow Along
 There are seven chapters to this course. You can find the slides for each chapter below.
 1. [Introduction](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-introduction.pdf)
 2. [Foundation](https://static.frontendmasters.com/assets/courses/2023-08-30-css-foundations/css-foundations-foundation.pdf)
